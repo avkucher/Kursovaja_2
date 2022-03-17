@@ -3,7 +3,7 @@ import json
 import utils
 from flask import Flask
 
-from main import app
+from app import app
 
 
 def test_get_posts():
